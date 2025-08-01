@@ -80,4 +80,4 @@ log_manual_buy(12.00, 10, "F", cash, 9.00, chatgpt_portfolio)
 chatgpt_portfolio = process_portfolio(chatgpt_portfolio, cash)
 daily_results(chatgpt_portfolio, cash)
 ```
-Of course, if no manual buys or sells were made, don't add those function calls..
+Of course, if no manual buys or sells were made, don't add those function calls.
